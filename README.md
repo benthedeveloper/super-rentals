@@ -1,7 +1,6 @@
 # Super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Following the tutorial on https://guides.emberjs.com/v2.5.0/ to create an Ember.js application for testing.
 
 ## Prerequisites
 
